@@ -1,0 +1,16 @@
+.qw {border-style: solid;
+border-color: black;}
+.qwe {border-style: groove;
+border-color: yellow;}
+.qwer {border-style: ridge;
+border-color: brown;}
+.qwert {border-style: double;
+border-color: tomato;}
+.qwerty {border-style: dashed;
+border-color: green;}
+.qwertyu {border-style: dotted;
+border-color: blue;}
+.qwertyui {border-style: inset;
+border-color: grey;}
+.qwertyuio {border-style: outset;
+border-color: red;}
